@@ -1,0 +1,14 @@
+1211301429-PART B
+trained using 
+Logistic Regression
+Decision Tree Classifier
+Random Forest Classifier
+Support Vector Machine (SVM)
+K-Nearest Neighbors (kNN) 
+Gradient Boosting Classifier 
+Neural Network (MLPClassifier)
+Hyperparameter tuning was applied using Gridsearch
+performance metrics used were Accuracy,Precision,Recall and F1 Score 
+
+
+
